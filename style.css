@@ -28,6 +28,11 @@ body {
   animation: animate 15s linear infinite;
   animation-delay: ;
 }
+.bubbles span:nth-child(even) {
+  background-color: #ff2d75;
+  border-radius: 50%;
+  box-shadow: 0 0 0 10px #ff2d7544, 0 0 50px #ff2d75, 0 0 100px #ff2d75;
+}
 @keyframes animate {
   0% {
     transform: translateY(100vh) scale(0);
