@@ -9,9 +9,11 @@
 
 [Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/qBxLzBx)
 
+![bground](readme/bground.gif)
+
 ## Info
 
-Создано на основе видео с Youtube канала [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers).    
+Создано на основе видео с Youtube канала [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers).  
 Для обучения и отработки работы c CSS.  
 Анимированный бэкграунд на CSS.
 
@@ -24,5 +26,3 @@
 <a href="mailto:leconseiller@yandex.ru" style="font-size: 20px; color: black;">
 
 - <a href="mailto:golovanov.a.a@yandex.ru" >Golovanov.a.a@yandex.ru</a>
-
-  
